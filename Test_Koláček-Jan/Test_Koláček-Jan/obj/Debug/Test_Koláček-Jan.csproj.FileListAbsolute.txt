@@ -1,0 +1,9 @@
+D:\Users\kolacekj.ita19\Desktop\Test_Jan-Koláček\Test_Koláček-Jan\Test_Koláček-Jan\bin\Debug\Test_Koláček-Jan.exe.config
+D:\Users\kolacekj.ita19\Desktop\Test_Jan-Koláček\Test_Koláček-Jan\Test_Koláček-Jan\bin\Debug\Test_Koláček-Jan.exe
+D:\Users\kolacekj.ita19\Desktop\Test_Jan-Koláček\Test_Koláček-Jan\Test_Koláček-Jan\bin\Debug\Test_Koláček-Jan.pdb
+D:\Users\kolacekj.ita19\Desktop\Test_Jan-Koláček\Test_Koláček-Jan\Test_Koláček-Jan\obj\Debug\Test_Koláček-Jan.csprojAssemblyReference.cache
+D:\Users\kolacekj.ita19\Desktop\Test_Jan-Koláček\Test_Koláček-Jan\Test_Koláček-Jan\obj\Debug\Test_Koláček_Jan.Form1.resources
+D:\Users\kolacekj.ita19\Desktop\Test_Jan-Koláček\Test_Koláček-Jan\Test_Koláček-Jan\obj\Debug\Test_Koláček_Jan.Properties.Resources.resources
+D:\Users\kolacekj.ita19\Desktop\Test_Jan-Koláček\Test_Koláček-Jan\Test_Koláček-Jan\obj\Debug\Test_Koláček-Jan.csproj.GenerateResource.cache
+D:\Users\kolacekj.ita19\Desktop\Test_Jan-Koláček\Test_Koláček-Jan\Test_Koláček-Jan\obj\Debug\Test_Koláček-Jan.exe
+D:\Users\kolacekj.ita19\Desktop\Test_Jan-Koláček\Test_Koláček-Jan\Test_Koláček-Jan\obj\Debug\Test_Koláček-Jan.pdb
